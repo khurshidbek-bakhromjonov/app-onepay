@@ -1,4 +1,4 @@
-                                            Balance Documentation
+                                                 Balance Documentation
 
 > GET
 
